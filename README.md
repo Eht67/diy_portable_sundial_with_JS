@@ -1,0 +1,1 @@
+this repo provides resources to make a DIY portable sundial using javascript. There are two files. A pdf file which provides the blueprint, and a js file that computes marksize and shift, given sunrise and sunset times.
